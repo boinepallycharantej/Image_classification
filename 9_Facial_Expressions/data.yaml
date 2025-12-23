@@ -1,0 +1,15 @@
+path: C:\Users\Charantej\Desktop\Image_classification\9_Facial_Expressions
+train: train/images
+val: valid/images
+test: test/images
+
+names:
+  0: angry
+  1: disgust
+  2: fear
+  3: happy
+  4: neutral
+  5: sad
+  6: surprise
+  7: contempt
+  8: other

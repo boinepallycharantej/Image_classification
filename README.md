@@ -83,27 +83,6 @@ The models classify facial expressions into the following **9 emotions**:
 
 ---
 
-## 📁 Repository Structure
-
-Image_classification/
-│
-├── 9_Facial_Expressions/
-│ ├── cnn_train.py
-│ ├── cnn_evaluate.py
-│ ├── vgg16_train.py
-│ ├── vgg16_train_finetune.py
-│ ├── vgg16_evaluate_finetuned.py
-│ ├── resnet_train.py
-│ ├── data.yaml
-│ ├── best_*.pth # Trained model weights (Git LFS)
-│
-├── environment.yml
-├── .gitignore
-└── README.md
-
-
----
-
 ## ⚙️ Setup Instructions
 
 ```bash
